@@ -3,27 +3,13 @@
 ## about me
  I am mohamad-khorsandi, student of computer engineering at university of Isfahan. The potential applications of artificial intelligence, particularly natural language processing are very exciting to me. I'm Also interested in how probability is applied in areas like deep learning and machine learning. Being a member of the ACM association has fueled my interest in algorithms and data structures. I find it fascinating to explore how efficient solutions can be designed for complex problems.🌱
 
-- 📫 How to reach me: ...
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>                                    
 
-<!-- 
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
-</div>
--->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohamad-khorsandi&theme=transparent&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
 
-
-
-
-![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamad-khorsandi-410826210%2F)
-
-![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Ft.me%2Fkhorsanddi)
 
 
 [![](https://visitcount.itsvg.in/api?id=mohamad-khorsandi&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
@@ -46,5 +32,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c"  alt="c" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux"  alt="linux" width="40" height="40"/>&nbsp;
+</div>
 
+## 📫 How to reach me:
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamad-khorsandi-410826210%2F)
+
+![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Ft.me%2Fkhorsanddi)
+
+![Static Badge](https://img.shields.io/badge/Email-blue?style=flat&logo=Telegram&logoColor=blue&labelColor=white&color=blue&link=mailto:9m.kh557@gmail.com)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
 </div>
