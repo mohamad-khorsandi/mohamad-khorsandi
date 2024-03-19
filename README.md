@@ -14,7 +14,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamad-khorsandi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-## Tech stack
+## 💻 Tech stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
