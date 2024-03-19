@@ -24,11 +24,13 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
 </div>
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohamad-khorsandi&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohamad-khorsandi&theme=transparent&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
 
 ![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamad-khorsandi-410826210%2F)
 
 ![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Ft.me%2Fkhorsanddi)
+
 
 [![](https://visitcount.itsvg.in/api?id=mohamad-khorsandi&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
