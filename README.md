@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=gold)
+![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=social&logo=Linkedin&logoColor=gold&labelColor=blue&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamad-khorsandi-410826210%2F)
+
+![Static Badge](https://img.shields.io/badge/Telegram-blue?style=social&logo=telegram&logoColor=gold&labelColor=blue&color=blue&link=https%3A%2F%2Ft.me%2Fkhorsanddi)
+
 
 [![](https://visitcount.itsvg.in/api?id=mohamad-khorsandi&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
