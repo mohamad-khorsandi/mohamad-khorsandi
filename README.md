@@ -1,4 +1,4 @@
-## Hi there👋
+### Hi there👋
  I am mohamad-khorsandi, student of computer engineering at university of Isfahan. The potential applications of artificial intelligence, particularly natural language processing are very exciting to me. I'm Also interested in how probability is applied in areas like deep learning and machine learning. Being a member of the ACM association has fueled my interest in algorithms and data structures. I find it fascinating to explore how efficient solutions can be designed for complex problems.🌱
 
 <div align="center">
@@ -6,11 +6,7 @@
 </div>                                    
 
 
-
-
-
-
-## 💻 Tech stack
+### 💻 Tech stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
@@ -29,13 +25,13 @@
 </div>
 
 
-## 📊 Github stats
+### 📊 Github stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohamad-khorsandi&theme=transparent&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
 
-[![](https://visitcount.itsvg.in/api?id=mohamad-khorsandi&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamad-khorsandi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+[![](https://visitcount.itsvg.in/api?id=mohamad-khorsandi&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## 📫 How to reach me:
 ![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamad-khorsandi-410826210%2F)
