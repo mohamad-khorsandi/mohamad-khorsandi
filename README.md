@@ -6,7 +6,7 @@
 </div>                                    
 
 <!-- ### 💻 Tech stack -->
-<div>
+<div style="text-align: center;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
@@ -37,7 +37,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Ft.me%2Fkhorsanddi)
 
-![Static Badge](https://img.shields.io/badge/Email-blue?style=flat&logo=Telegram&logoColor=blue&labelColor=white&color=blue&link=mailto:9m.kh557@gmail.com)
+![Static Badge](https://img.shields.io/badge/Email-blue?style=flat&logo=Email&logoColor=blue&labelColor=white&color=blue&link=mailto:9m.kh557@gmail.com)
 
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
