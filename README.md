@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 -->
 <div style="text-align: center;">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mohamad-khorsandi&theme=transparent&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohamad-khorsandi&theme=transparent&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
 </div>
 
 
