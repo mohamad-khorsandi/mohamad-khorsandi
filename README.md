@@ -1,18 +1,10 @@
-### Hi there👋 I am mohamad-khorsandi
+### Hi there👋
 
-<!--
-**mohamad-khorsandi/mohamad-khorsandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## about me
+ I am mohamad-khorsandi, student of computer engineering at university of Isfahan. The potential applications of artificial intelligence, particularly natural language processing are very exciting to me. I'm Also interested in how probability is applied in areas like deep learning and machine learning. Being a member of the ACM association has fueled my interest in algorithms and data structures. I find it fascinating to explore how efficient solutions can be designed for complex problems.🌱
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -37,6 +29,8 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=mohamad-khorsandi&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamad-khorsandi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+## Tech stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
