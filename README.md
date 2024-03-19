@@ -23,9 +23,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
 </div>
 -->
-<div style="text-align: center;">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohamad-khorsandi&theme=transparent&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
-</div>
+
 
 
 
