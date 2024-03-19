@@ -37,7 +37,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Ft.me%2Fkhorsanddi)
 
-![Static Badge](https://img.shields.io/badge/Email-blue?style=flat&logo=Email&logoColor=blue&labelColor=white&color=blue&link=mailto:9m.kh557@gmail.com)
+![Static Badge](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&logoColor=blue&labelColor=white&color=blue&link=mailto:9m.kh557@gmail.com)
 
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
