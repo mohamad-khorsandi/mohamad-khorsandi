@@ -5,8 +5,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>                                    
 
-<img src="https://komarev.com/ghpvc/?username=mohamad-khorsandi&style=flat-square&color=blue" alt=""/>
-
 <!-- ### 💻 Tech stack -->
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -26,11 +24,11 @@
 </div>
 
 
-### 📊 Github stats
+<!-- ### 📊 Github stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohamad-khorsandi&theme=transparent&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamad-khorsandi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamad-khorsandi&show=prs_merged,prs_merged_percentage)
 
 [![](https://visitcount.itsvg.in/api?id=mohamad-khorsandi&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
