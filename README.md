@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamad-khorsandi-410826210%2F)
 
 ![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Ft.me%2Fkhorsanddi)
