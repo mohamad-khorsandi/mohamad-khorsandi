@@ -1,11 +1,12 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>      
+
 
 ### Hi there👋
  I am mohamad-khorsandi, student of computer engineering at university of Isfahan. The potential applications of artificial intelligence, particularly natural language processing are very exciting to me. I'm Also interested in how probability is applied in areas like deep learning and machine learning. Being a member of the ACM association has fueled my interest in algorithms and data structures. I find it fascinating to explore how efficient solutions can be designed for complex problems.🌱
 
-                              
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>      
+
 
 ### 💻 Stack 
 <div style="text-align: center;">
@@ -29,9 +30,9 @@
 <!-- ### 📊 Github stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohamad-khorsandi&theme=transparent&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
--->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamad-khorsandi&show=prs_merged,prs_merged_percentage)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamad-khorsandi&show=prs_merged,prs_merged_percentage)
+-->
 [![](https://visitcount.itsvg.in/api?id=mohamad-khorsandi&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## 📫 How to reach me:
