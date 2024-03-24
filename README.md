@@ -33,8 +33,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamad-khorsandi)
 
 
-<br>
+<br><br>
 ### 📫 How to reach me 
+
 ![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamad-khorsandi-410826210%2F)
 
 ![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Ft.me%2Fkhorsanddi)
