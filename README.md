@@ -26,12 +26,12 @@
 </div>
 
 
-<!-- ### 📊 Github stats
-
+### 📊 stats
+<!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohamad-khorsandi&theme=transparent&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamad-khorsandi&show=prs_merged,prs_merged_percentage)
 -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamad-khorsandi)
+
 
 <br><br><br>
 ### 📫 How to reach me 
