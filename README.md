@@ -26,7 +26,7 @@
 </div>
 
 <br><br><br>
-### 📊 stats
+### 📉 stats
 <!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mohamad-khorsandi&theme=transparent&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
 -->
