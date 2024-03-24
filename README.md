@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600"/>
 </div>      
 
-<br><br><br>
+<br><br><br><br>
 ### 🛠 Technologies 
 <div style="text-align: center;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -33,7 +33,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamad-khorsandi)
 
 
-<br><br>
+<br>
 ### 📫 How to reach me 
 ![Static Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=blue&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamad-khorsandi-410826210%2F)
 
