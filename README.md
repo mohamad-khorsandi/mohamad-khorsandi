@@ -24,11 +24,10 @@
   <img src="https://techstack-generator.vercel.app/java-icon.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c"  alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://techstack-generator.vercel.app/c-icon.svg" title="c"  alt="c" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin"  alt="kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" title="jetpackcompose"  alt="jetpackcompose" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux"  alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" title="rest"  alt="rest" width="40" height="40"/>&nbsp;
 </div>
 
 <br><br><br>
