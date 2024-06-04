@@ -15,13 +15,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus"  alt="cplusplus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c"  alt="c" width="40" height="40"/>&nbsp;
@@ -29,70 +29,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" title="jetpackcompose"  alt="jetpackcompose" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux"  alt="linux" width="40" height="40"/>&nbsp;
 </div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><br>TS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="icon" width="65" height="65" /><br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="Sass" /><br>Sass
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Expressjs" /><br>Express.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" /><br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /><br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br>Nestjs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
-    </td>
-    <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><br>AWS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=golang" width="48" height="48" alt="Golang" /><br>Golang
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /><br>Vue.js    
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vuetify" width="48" height="48" alt="Vuetify" /><br>Vuetify
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GQL" /><br>GraphQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" /><br>Docker
-    </td>
-  </tr>
-</table>
-
 
 <br><br><br>
 ### 📉 Stats
