@@ -1,6 +1,6 @@
 
 ### Hi there 👋
- I am mohamad khorsandi, student of computer engineering at university of Isfahan. The potential applications of artificial intelligence, particularly natural language processing are very exciting to me. I'm Also interested in how probability is applied in areas like deep learning and machine learning. Being a member of the ACM association has fueled my interest in algorithms and data structures. I find it fascinating to explore how efficient solutions can be designed for complex problems.🌱
+ I am mohamad khorsandi, student of computer engineering at tehran polytechnic. The potential applications of artificial intelligence, particularly natural language processing are very exciting to me. I'm Also interested in how probability is applied in areas like deep learning and machine learning. I find it fascinating to explore how efficient solutions can be designed for complex problems.🌱
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600"/>
